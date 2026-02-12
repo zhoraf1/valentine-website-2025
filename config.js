@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://music.yandex.ru/album/24980889/track/59608979?utm_source=web&utm_medium=copy_link", // Music streaming URL
+        musicUrl: "https://screenapp.io/app/v/5VaVll0Ls2", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
