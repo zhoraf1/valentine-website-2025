@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "будееешь моей возлюбленной??? 💞",
+    pageTitle: "будееешь моей возлюбленной?? 💞",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "я тебе нравлюсь?",                                    // First interaction
             yesBtn: "Да",                                             // Text for "Yes" button
             noBtn: "Нет",                                               // Text for "No" button
-            secretAnswer: "ты мне не нравишься, ведь я уже люблю тебя! ❤️"           // Secret hover message
+            secretAnswer: "вообще-то не нравишься, а как бы я уже люблю тебя! ❤️"           // Secret hover message
         },
         second: {
             text: "насколько ты меня любишь?",                          // For the love meter
@@ -33,8 +33,8 @@ const CONFIG = {
             nextBtn: "дальше... ❤️"                                         // Text for the next button
         },
         third: {
-            text: "будееешь моей возлюбленной 14 феврался 2026 года? 🌹", // The big question!
-            yesBtn: "Да!",                                             // Text for "Yes" button
+            text: "будееешь моей возлюбленной 14 февраля 2026 года? 🌹", // The big question!
+            yesBtn: "ДАААА!",                                             // Text for "Yes" button
             noBtn: "Нет"                                                 // Text for "No" button
         }
     },
