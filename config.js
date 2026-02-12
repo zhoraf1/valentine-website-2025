@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "file:///C:/Users/ITMEDIA%20PC/Downloads/ecco2k_-_peroxide_nightcorebot_(SkySound.cc).mp3", // Music streaming URL
+        musicUrl: "chrome-extension://ijgkbcbalaekboipcmaefchfjpognmog/saver/vk.com/177413/ecco2k%20-%20peroxide%20%5B_nightcorebot%5D.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
